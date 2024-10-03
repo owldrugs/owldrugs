@@ -1,7 +1,7 @@
 <h1><b>My profile</b></h1>
 <br>
+<div align="center">
 <p><b>WEB:</b></p>
-
 <p>Main:</p>
 <p>
     <p">
@@ -16,7 +16,7 @@
     Opencart(Ocstore), Wordpress, Modx
 </p>
 <br>
-<div style="">
+
 <p><b>Back-end frameworks:</b></p>
 <p>
     <p">
@@ -34,7 +34,7 @@
       </a>
     </p>
 </p>
-</div>   
+ 
 <p><b>Gamedev:</b><p>
 <p>
     <p">
@@ -43,7 +43,7 @@
       </a>
     </p>
 </p>
-
+</div>  
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
       <img src="https://github.r2v.ch/codewars?user=Owlondrugsmobile&name=true&top_languages=true&stroke=%23b362ff" />
