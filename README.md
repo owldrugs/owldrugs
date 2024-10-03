@@ -2,7 +2,7 @@
 <br>
 <div align="center">
 <p><b>WEB:</b></p>
-<p><b>Main:</b>b></p>
+<p><b>Main:</b></p>
 <p>
     <p">
       <a href="https://skillicons.dev">
