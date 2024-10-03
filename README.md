@@ -1,5 +1,4 @@
 <h1><b>My profile</b></h1>
-<br>
 <div align="center">
 <p><b>WEB:</b></p>
 <p><b>Main:</b></p>
@@ -10,13 +9,10 @@
       </a>
     </p>
 </p>
-    <br>
 <p><b>CMS:</b></p>
 <p>
     Opencart(Ocstore), Wordpress, Modx
 </p>
-<br>
-
 <p><b>Back-end frameworks:</b></p>
 <p>
     <p">
@@ -25,7 +21,6 @@
       </a>
     </p>
 </p>
-<br>
 <p><b>Front-end:</b></p>
 <p>
     <p">
@@ -34,7 +29,6 @@
       </a>
     </p>
 </p>
- 
 <p><b>Gamedev:</b><p>
 <p>
     <p">
