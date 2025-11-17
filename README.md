@@ -30,7 +30,7 @@
 
 ### CMS / E-commerce
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://img.shields.io/badge/WordPress-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white"" />
   <img src="https://img.shields.io/badge/OpenCart-003A63?style=for-the-badge&logo=opencart&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitrix-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
@@ -45,7 +45,7 @@
 
 ### Game Dev (Hobby)
 <p>
-  <img src="https://skillicons.dev/icons?i=godot" />
+  <img src="https://img.shields.io/badge/GODOT-000000?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/LÖVE2D-000000?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
@@ -62,7 +62,7 @@
 ## 📫 Contact
 
 <p>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/Viktor_3107">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
